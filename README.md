@@ -4,6 +4,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">-->
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
+<h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityanair07&label=Profile%20views&color=0e75b6&style=flat" alt="adityanair07" /> </p>
 
 - 🌱 I’m currently learning **Javascript and ReactJS**
@@ -14,8 +15,6 @@
 
 - 📫 How to reach me **nairaditya07@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
