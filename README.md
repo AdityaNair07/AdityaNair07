@@ -4,7 +4,6 @@
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">-->
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityanair07&label=Profile%20views&color=0e75b6&style=flat" alt="adityanair07" /> </p>
 
 - 🌱 I’m currently learning **Javascript and ReactJS**
@@ -15,7 +14,11 @@
 
 - 📫 How to reach me **nairaditya07@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/aditya-nair-766875229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nairaditya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+<a href="https://leetcode.com/Aditya_Nair_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
