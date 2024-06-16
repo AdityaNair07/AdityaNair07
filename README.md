@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript and ReactJS**
 
-- 🔭 I’m currently working on ReactJS beginner projects
+- 🔭 I’m currently working on ReactJS and NextJs projects
 
 - 💬 Ask me about **Web Development**
 
