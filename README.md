@@ -1,6 +1,6 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi, I'm Aditya Nair</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer specializing in web technologies</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">-->
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
@@ -36,6 +36,7 @@
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://v4.material-ui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="Express JS" width="60" height="40"/>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/userupload/9602981/file/original-e6f9ef9e2c570d0d612b1775155a4d63.png" alt="Next JS" width="60" height="40"/>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="60" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanair07&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="adityanair07" /></p>
