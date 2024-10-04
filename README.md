@@ -34,6 +34,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://react.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://v4.material-ui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="Express JS" width="60" height="40"/>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/userupload/9602981/file/original-e6f9ef9e2c570d0d612b1775155a4d63.png" alt="Next JS" width="60" height="40"/>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="60" height="40"/>
