@@ -49,3 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanair07&theme=synthwave" alt="adityanair07" /></p>
 
+![GitHub Contribution Snake](https://github.com/AdityaNair07/AdityaNair07/blob/output/github-contribution-grid-snake.svg)
